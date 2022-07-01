@@ -9,7 +9,7 @@ To Run:
 
 ## Purpose
 
-To gain a better understanding of thread synchonization and communication in Java with the use of threads and semaphores.
+To gain a better understanding of thread concurrency along with thread synchonization and communication in Java with the use of threads and semaphores.
 This was accomplished by creating a simulation of a movie theater that simulates customers, and multiple types of employees from the theater that all need to interact with the use of threading.
 The threads interact in a given work flow, where once a customer thread buys a ticket they then need to interact with the ticket taker and concessions worker threads if they want snacks. 
 
